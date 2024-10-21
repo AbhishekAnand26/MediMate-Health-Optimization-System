@@ -18,7 +18,7 @@ The dataset includes patient data such as symptoms, medical history, age, gender
     training.
 
 3. Model Selection
-    The project uses classification algorithms to predict possible diseases based on symptoms. Models such as Random Forest, Decision Trees, and K-Nearest Neighbors (KNN) are trained and evaluated 
+ The project uses classification algorithms to predict possible diseases based on symptoms. Models such as Random Forest, Decision Trees, and K-Nearest Neighbors (KNN) are trained and evaluated 
     for accuracy.
 
     Random Forest : Captures complex relationships between features and is robust to overfitting.
