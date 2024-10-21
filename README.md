@@ -21,14 +21,16 @@ The dataset includes patient data such as symptoms, medical history, age, gender
     The project uses classification algorithms to predict possible diseases based on symptoms. Models such as Random Forest, Decision Trees, and K-Nearest Neighbors (KNN) are trained and evaluated 
     for accuracy.
 
-    Random Forest: Captures complex relationships between features and is robust to overfitting.
-    Decision Trees: Provides clear, interpretable decision paths.
-    KNN: Helps classify based on the proximity of symptoms to known disease cases.
+    Random Forest : Captures complex relationships between features and is robust to overfitting.
+   
+    Decision Trees : Provides clear, interpretable decision paths.
+   
+    KNN : Helps classify based on the proximity of symptoms to known disease cases.
   
-4. Train-Test Split
+5. Train-Test Split
 The dataset is divided into training and testing sets. The training data is used to teach the model how symptoms relate to specific diseases, while the test data is used to evaluate how well the model generalizes to new, unseen data.
 
-5. Model Training and Evaluation
+6. Model Training and Evaluation
 The models are trained using various algorithms, and their performance is evaluated using metrics such as:
 
    Accuracy: Measures the percentage of correct predictions.
