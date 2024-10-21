@@ -39,9 +39,11 @@ The goal of this project is to develop a machine learning model capable of predi
    
    The models are trained using various algorithms, and their performance is evaluated using metrics such as:
 
-   Accuracy: Measures the percentage of correct predictions.
-   Precision, Recall, F1-Score: Evaluates the balance between correctly identifying diseases and avoiding false positives.
-   Confusion Matrix: Visualizes the performance across different disease classes.
+   Accuracy : Measures the percentage of correct predictions.
+   
+   Precision, Recall, F1-Score : Evaluates the balance between correctly identifying diseases and avoiding false positives.
+   
+   Confusion Matrix : Visualizes the performance across different disease classes.
 
 6. Prediction on New Patient Data
 Once the models are trained, they can be used to predict potential diseases for new patients based on their input symptoms. This functionality can serve as a decision-support tool for doctors, providing real-time insights into patient diagnoses.
