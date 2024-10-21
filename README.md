@@ -46,7 +46,9 @@ The goal of this project is to develop a machine learning model capable of predi
    Confusion Matrix : Visualizes the performance across different disease classes.
 
 6. Prediction on New Patient Data
-Once the models are trained, they can be used to predict potential diseases for new patients based on their input symptoms. This functionality can serve as a decision-support tool for doctors, providing real-time insights into patient diagnoses.
+   
+   Once the models are trained, they can be used to predict potential diseases for new patients based on their input symptoms. This functionality can serve as a decision-support tool for doctors, 
+   providing real-time insights into patient diagnoses.
 
 # Conclusion
 The AI Doctor project demonstrates the power of machine learning in healthcare. By leveraging patient data and symptom analysis, the system provides an intelligent method for disease prediction, supporting medical professionals in diagnostics. Further enhancements could include more advanced models, larger datasets, and integration with real-world patient data to improve accuracy.
