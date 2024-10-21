@@ -1,1 +1,1 @@
-# Personalised-AI-Doctor
+# Personalised-Medical-Recommendation-System 
