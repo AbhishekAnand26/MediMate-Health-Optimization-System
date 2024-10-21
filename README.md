@@ -12,22 +12,22 @@ The dataset includes patient data such as symptoms, medical history, age, gender
 
 2. Data Analysis and Preprocessing
 
- Exploratory Data Analysis (EDA): The collected data is analyzed to identify patterns and relationships between symptoms and diseases. Data visualization techniques are used to gain insights.
+    Exploratory Data Analysis (EDA): The collected data is analyzed to identify patterns and relationships between symptoms and diseases. Data visualization techniques are used to gain insights.
  
- Preprocessing: Includes handling missing values, encoding categorical variables (such as symptoms), and normalizing numerical data. This step ensures the dataset is clean and ready for model 
- training.
+    Preprocessing: Includes handling missing values, encoding categorical variables (such as symptoms), and normalizing numerical data. This step ensures the dataset is clean and ready for model 
+    training.
 
-# Model Selection
+3. Model Selection
 The project uses classification algorithms to predict possible diseases based on symptoms. Models such as Random Forest, Decision Trees, and K-Nearest Neighbors (KNN) are trained and evaluated for accuracy.
 
   Random Forest: Captures complex relationships between features and is robust to overfitting.
   Decision Trees: Provides clear, interpretable decision paths.
   KNN: Helps classify based on the proximity of symptoms to known disease cases.
   
-# Train-Test Split
+4. Train-Test Split
 The dataset is divided into training and testing sets. The training data is used to teach the model how symptoms relate to specific diseases, while the test data is used to evaluate how well the model generalizes to new, unseen data.
 
-# Model Training and Evaluation
+5. Model Training and Evaluation
 The models are trained using various algorithms, and their performance is evaluated using metrics such as:
 
 Accuracy: Measures the percentage of correct predictions.
